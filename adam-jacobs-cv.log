@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.8)  18 OCT 2018 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.8)  3 JAN 2019 10:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -621,17 +621,16 @@ File: adamjacobs.png Graphic file (type png)
  <use adamjacobs.png>
 Package pdftex.def Info: adamjacobs.png used on input line 20.
 (pdftex.def)             Requested size: 53.34674pt x 80.6626pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 28.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 30.
+Package hyperref Warning: Suppressing link with empty target on input line 29.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--31
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
 
  []
 
@@ -640,32 +639,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--44
 
  []
 
-
-Overfull \hbox (70.07838pt too wide) in paragraph at lines 56--57
-[]\T1/cmr/m/n/10 THS Ar-ma-da Ca-re-er Fair (Fullsta-ck/Python/Microservices/Li
-nux/SCRUM) 
- []
-
-
-Overfull \hbox (20.72903pt too wide) in paragraph at lines 63--64
-[]\T1/cmr/m/n/10 Software En-gi-ne-er, Eri-cs-son In-terns-hip (C/Golang/Virtua
-lization/Overlays) 
- []
-
-
-Overfull \hbox (69.63376pt too wide) in paragraph at lines 66--67
-[]\T1/cmr/m/n/10 multi-platform app, di-gi-ta-lizing educa-tion, Rud-beck (Le-a
--ders-hip/NodeJS/Fullstack) 
- []
-
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 71.
+(babel)             in language  on input line 74.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 71.
+(babel)             in language  on input line 74.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 71.
+(babel)             in language  on input line 74.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 71.
+(babel)             in language  on input line 74.
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./adamj
@@ -686,22 +667,24 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 78.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 6203 strings out of 492995
- 88303 string characters out of 6132704
+ 6205 strings out of 492995
+ 88331 string characters out of 6132704
  184094 words of memory out of 5000000
- 9700 multiletter control sequences out of 15000+600000
+ 9702 multiletter control sequences out of 15000+600000
  10284 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,5n,25p,605b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,5n,25p,487b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc0900.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/
-local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on adam-jacobs-cv.pdf (2 pages, 90599 bytes).
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc0900.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on adam-jacobs-cv.pdf (2 pages, 106146 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 45 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
